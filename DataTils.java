@@ -8,4 +8,7 @@ publis void main(String S){
 
         }
 }
-
+public class method(){
+	Sample = x + y;
+	system.out.println(Sample);
+}
